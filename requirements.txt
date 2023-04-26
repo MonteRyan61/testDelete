@@ -114,7 +114,7 @@ sniffio
 sortedcontainers
 soupsieve
 SpeechRecognition
-streamlit
+streamlit=1.10.0 
 streamlit-webrtc
 tensorboard
 tensorboard-data-server
